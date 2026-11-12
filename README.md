@@ -55,4 +55,4 @@ RSS Feed → AI Summarization → Email Delivery
 
 MCA (AI & ML) Graduate | Aspiring AI Automation and Generative AI Enthusiast.
 ##work flow screenshot
-[AI news summarizer workflow](screenshot(20).png)
+[AI news summarizer workflow](workflow-overview.png)
