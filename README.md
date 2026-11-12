@@ -1,3 +1,4 @@
+
 # AI News Summarizer Automation
 
 ## Project Overview
@@ -54,4 +55,6 @@ RSS Feed → AI Summarization → Email Delivery
 ## Author
 
 MCA (AI & ML) Graduate | Aspiring AI Automation and Generative AI Enthusiast.
+##workflow overview
+[Ai news summarize](workflow-overview.png)
 
